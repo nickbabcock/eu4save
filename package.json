@@ -8,6 +8,18 @@
   },
   "author": "Nick Babcock <nbabcock19@hotmail.com> (nbsoftsolutions.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickbabcock/eu4save.git"
+  },
+  "homepage": "https://github.com/nickbabcock/eu4save",
+  "keywords": [
+    "paradox",
+    "clausewitz",
+    "save",
+    "eu4",
+    "statistics"
+  ],
   "dependencies": {
     "jomini": "^0.1.0",
     "ramda": "^0.9.1"
