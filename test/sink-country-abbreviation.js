@@ -17,10 +17,10 @@ describe('sink-country-abbreviation', function() {
     sink(obj);
     expect(obj.countries).to.have.deep.members([{
         name: 'Rebel',
-        abbreviation: 'REB'      
+        abbreviation: 'REB'
       }, {
         name: 'France',
-        abbreviation: 'FRA'        
+        abbreviation: 'FRA'
       }]);
   });
 
