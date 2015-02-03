@@ -21,6 +21,7 @@
     "statistics"
   ],
   "dependencies": {
+    "is_js": "^0.2.3",
     "jomini": "^0.1.0",
     "ramda": "^0.9.1"
   },
